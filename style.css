@@ -1,0 +1,42 @@
+h1{
+    color:rgb(255, 71, 71);
+    font-size:45px;
+}
+h2{
+    margin-top:-55px;
+    font-size: 60px;
+    color: blueviolet;
+}
+.web{
+    font-size:x-large;
+    color:grey;
+
+}
+h3{
+    font-weight:200;
+}
+.cinfo{
+    font-size:30px;
+    color:black;
+    font-style:italic;
+    font-style: bold;
+}
+div{
+    background-color: bisque;
+    height:150px;
+    width:1230px;
+    margin-left:auto;
+    margin-right:auto;
+    border-style:solid;
+    border-color:blue;
+}
+p{
+    font-size: large;
+    padding: 0px 0px 0px 12px;
+}
+a{
+    color:rgb(48, 90, 242);
+}
+font{
+    color:red;
+}
